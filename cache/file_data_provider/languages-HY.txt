@@ -1,0 +1,185 @@
+AA;;Հեռու
+AB;;Աբխազական
+AF;;Afrikaans
+AK;;Akan
+SQ;;Ալբանական
+AM;;Amharic
+AR;;Արաբական
+AN;;Aragonese
+HY;;Հայերեն
+AS;;Assamese
+AV;;Avaric
+AE;;Avestan
+AY;;Aymara
+AZ;;Ադրբեջանի
+BA;;Bashkir
+BM;;Bambara
+EU;;Բասկերի
+BE;;Բելառուսի
+BN;;Bengali
+BH;;Նոր Կտակարան լեզուներ
+BI;;Bislama
+BS;;Bosnian
+BR;;Breton
+BG;;Բուլղարիայի
+MY;;Բիրմացի
+CA;;Catalan. Valencian
+CH;;Chamorro
+CE;;Չեչնիայի
+ZH;;Չինական
+CU;;Church Slavic: Հին սլավոնական; Եկեղեցու սլավոնական. Old Բուլղարիայի; Հին եկեղեցու սլավոնական
+CV;;Chuvash
+KW;;Կորնական լեզու
+CO;;Corsican
+CR;;Cree
+CS;;Չեխ
+DA;;Դանիերեն
+DV;;Dhivehi -; Dhivehi. Մալդիվյան
+NL;;Հոլանդական; Ֆլամանդերեն
+DZ;;Dzongkha
+EN;;Անգլերեն
+EO;;Esperanto
+ET;;Էստոնիայի
+EE;;Մաքի
+FO;;Faroese
+FJ;;Fijian
+FI;;Ֆիններեն
+FR;;Ֆրանսիական
+FY;;Western Frisian
+FF;;Fulah
+KA;;Վրացական
+DE;;Գերմանական
+GD;;Gaelic. Scottish Gaelic
+GA;;Իռլանդական
+GL;;Galician
+GV;;Կելտ
+EL;;Հունարեն, Modern (1453-)
+GN;;Գուարանի
+GU;;Gujarati
+HT;;Haitian; Haitian Creole
+HA;;Հաուսա
+HE;;Եբրայեցի
+HZ;;Herero
+HI;;Հինդի
+HO;;Hiri Motu
+HR;;Խորվաթիայի
+HU;;Հունգարերեն
+IG;;Igbo
+IS;;Հայերեն
+IO;;Համաձայն եմ
+II;;Sichuan Yi; Nuosu
+IU;;Inuktitut
+IE;;Interlingue. Արլմտյան
+IA;;Ինտերլինգվա (International Օժանդակ Language Association)
+ID;;Ինդոնեզերեն
+IK;;Inupiaq
+IT;;Իտալական
+JV;;Ճավաերեն
+JA;;Ճապոնացի
+KL;;Kalaallisut; Գրենլանդերեն
+KN;;Kannada
+KS;;Քաշմիրերեն
+KR;;Kanuri
+KK;;Ղազախստանի
+KM;;Central Khmer
+KI;;Kikuyu; Gikuyu
+RW;;Kinyarwanda
+KY;;Kirghiz. Ղրղզստանի
+KV;;Komi
+KG;;Kongo
+KO;;Կորեայի
+KJ;;Kuanyama; Kwanyama
+KU;;Քրդական
+LO;;Lao
+LA;;Լատիներեն
+LV;;Լատվիայի
+LI;;Limburgan; Limburger; Limburgish
+LN;;Lingala
+LT;;Լիտվայի
+LB;;Հայերեն; Letzeburgesch
+LU;;Luba-Katanga
+LG;;Ganda
+MK;;Macedonian
+MH;;Marshallese
+ML;;Malayalam
+MI;;Maori
+MR;;Marathi
+MS;;Malay
+MG;;Մադագասկարցի
+MT;;Maltese
+MO;;Մոլդովայի; Մոլդովայի
+MN;;Մոնղոլական
+NA;;Նաուրու
+NV;;Navajo. Navaho
+NR;;Ndebele, South; South Ndebele
+ND;;Ndebele, North; North Ndebele
+NG;;Ndonga
+NE;;Նեպալերեն
+NN;;Norwegian Nynorsk. Nynorsk, Նորվեգիայի
+NB;;Bokmål, Norwegian. Նորվեգերեն
+NO;;Նորվեգական
+NY;;Chichewa; Chewa; Nyanja
+OC;;Occitan (Գրառման 1500)
+OJ;;Ojibwa
+OR;;Oriya
+OM;;Oromo
+OS;;Օսական; Ossetic
+PA;;Panjabi; Punjabi
+FA;;Պարսիկ
+PI;;Pali
+PL;;Լեհաստանի
+PT;;Պորտուգալացի
+PS;;Pushto; Pashto
+QU;;Quechua
+RM;;Romansh
+RO;;Ռումինացի
+RN;;Rundi
+RU;;Ռուսական
+SG;;Sango
+SA;;Սանսկրիտ
+SI;;Sinhala. Սինհալերեն
+SK;;Սլովակիայի
+SL;;Սլովենիայի
+SE;;Northern Sami
+SM;;Samoan
+SN;;Shona
+SD;;Սինդհի
+SO;;Somali
+ST;;Sotho, Southern
+ES;;Իսպանիայի; Castilian
+SC;;Sardinian
+SR;;Սերբ
+SS;;Swati
+SU;;Sundanese
+SW;;Swahili
+SV;;Շվեդական
+TY;;Tahitian
+TA;;Tamil
+TT;;Հայերեն
+TE;;Telugu
+TG;;Տաջիկստանի
+TL;;Tagalog
+TH;;Թայերեն
+BO;;Tibetan
+TI;;Tigrinya
+TO;;Տոնգա (Թեթլ երկանիվ կառք Islands)
+TN;;Tswana
+TS;;Ցոնգան
+TK;;Թուրքմենստանի
+TR;;Թուրքական
+TW;;Twi
+UG;;Uighur. Ույղուրերեն
+UK;;Ուկրաինական
+UR;;Ուրդու
+UZ;;Ուզբեկ
+VE;;Venda
+VI;;Վիետնամերեն
+VO;;Volapük
+CY;;Ուելսերեն
+WA;;Walloon
+WO;;Wolof
+XH;;Xhosa
+YI;;Yiddish
+YO;;Yoruba
+ZA;;Zhuang; Chuang
+ZU;;Զուլուսերեն
