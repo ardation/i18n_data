@@ -1,0 +1,185 @@
+AA;;အဝေးက
+AB;;ခါ
+AF;;အဘိဓါန် Afrikaans
+AK;;အဘိဓါန် Akan
+SQ;;အဘိဓါန် Albanian
+AM;;ဟာရစခြ
+AR;;အဘိဓါန် Arabic
+AN;;အဘိဓါန် Aragonese
+HY;;အဘိဓါန် Armenian
+AS;;ဘင်ျဂါလီ
+AV;;အဘိဓါန် Avaric
+AE;;အဘိဓါန် Avestan
+AY;;Aymara အဘိဓါန်
+AZ;;Azerbaijani-
+BA;;အဘိဓါန် Bashkir
+BM;;အဘိဓါန် Bambara
+EU;;အဘိဓါန် Basque
+BE;;ဘီလာရု
+BN;;ဘင်္ဂါလီ
+BH;;ဘီဟာရီဘာသာစကားများ
+BI;;အဘိဓါန် Bislama
+BS;;အဘိဓါန် Bosnian
+BR;;အဘိဓါန် Breton
+BG;;ဘူဂေးရီးယား
+MY;;မြန်မာ
+CA;;ကာတာလ; Valencian
+CH;;အဘိဓါန် Chamorro
+CE;;ခြခေငျြး
+ZH;;တရုတ်
+CU;;အဘိဓါန် Church Slavic; ဟောငျး Slavonic; Church ကို Slavonic; ဘူဂေးရီးယားဟောငျး; ဟောငျးချာ့ Slavonic
+CV;;အဘိဓါန် Chuvash
+KW;;အဘိဓါန် Cornish
+CO;;အဘိဓါန် Corsican
+CR;;ခရီး
+CS;;ခကျြခကျြ
+DA;;ဒိနျး
+DV;;အဘိဓါန် Dhivehi; Dhivehi; Maldivian
+NL;;ဒတျချြ; Flemish
+DZ;;ဒှနျကာ
+EN;;အင်္ဂလိပ်
+EO;;အဘိဓါန် Esperanto
+ET;;Estonian အဘိဓါန်
+EE;;အဘိဓါန် Ewe
+FO;;အဘိဓါန် Faroese
+FJ;;ဖီဂြီ
+FI;;ဖင်လန်
+FR;;ပြင်သစ်
+FY;;ဖရီစီရအနောက်တိုင်း
+FF;;အဘိဓါန် Fulah
+KA;;ဂျြောဂြီယနျ
+DE;;ဂျာမန်
+GD;;Gaelic; အဘိဓါန် Scottish Gaelic
+GA;;အိုငျးရစျ
+GL;;စီယံ
+GV;;အဘိဓါန် Manx
+EL;;ဂရိ, ခေတ်သစ် (1453-)
+GN;;ဂူအာရာနီ
+GU;;ဂူဂြာရ
+HT;;အဘိဓါန် Haitian; တေီ
+HA;;ဥစာ
+HE;;ဟီဘရူး
+HZ;;Herero
+HI;;ဟိန်ဒီ
+HO;;အဘိဓါန် Hiri Motu
+HR;;အဘိဓါန် Croatian
+HU;;ဟနျဂရေီ
+IG;;အစ်ဂဘို
+IS;;လန်
+IO;;အဘိဓါန် Ido
+II;;စီခြှမျရီ; Nuosu
+IU;;အဘိဓါန် Inuktitut
+IE;;အဘိဓါန် Interlingue; Occidental
+IA;;အဘိဓါန် Interlingua (နိုင်ငံတကာအရန်ပါ Language Association က)
+ID;;အင်ဒိုနီးရှား
+IK;;အဘိဓါန် Inupiaq
+IT;;အီတလီ
+JV;;ဂြာဗားနီး
+JA;;ဂျပန်
+KL;;အဘိဓါန် Kalaallisut; Greenlandic
+KN;;ကန်နာဒါ
+KS;;မီရီ
+KR;;Kanuri အဘိဓါန်
+KK;;ခါဇါ
+KM;;ဗဟိုခမာ
+KI;;အဘိဓါန် Kikuyu; Gikuyu
+RW;;အဘိဓါန် Kinyarwanda
+KY;;အဘိဓါန် Kirghiz; ခရူဂ
+KV;;အဘိဓါန် Komi
+KG;;ကှနျဂို
+KO;;ကိုရီးယား
+KJ;;အဘိဓါန် Kuanyama; Kwanyama
+KU;;အဘိဓါန် Kurdish
+LO;;လာအို
+LA;;လက်တင်
+LV;;အံ
+LI;;Limburgan; Limburger; အဘိဓါန် Limburgish
+LN;;အဘိဓါန် Lingala
+LT;;အာနီယံ
+LB;;အဘိဓါန် Luxembourgish; Letzeburgesch
+LU;;အဘိဓါန် Luba-Katanga
+LG;;အဘိဓါန် Ganda
+MK;;အဘိဓါန် Romany
+MH;;အဘိဓါန် Marshallese
+ML;;အဘိဓါန် Malayalam
+MI;;ရီ
+MR;;မာရသီ
+MS;;မလေး
+MG;;အာလာဂါစီ
+MT;;မောလ်
+MO;;Moldavian; မော်လ်ဒိုဗာ
+MN;;လီး
+NA;;Nauru ကျွန်း
+NV;;အဘိဓါန် Navajo; Navaho
+NR;;Ndebele အဘိဓါန်, တောင်; အဘိဓါန် South Azerbaijani
+ND;;Ndebele အဘိဓါန်, မြောက်အမေရိက, North Ndebele
+NG;;Ndonga
+NE;;နီပေါ
+NN;;အဘိဓါန် Norwegian Nynorsk; Nynorsk အဘိဓါန်, ဘှ
+NB;;Bokmål-, ဘှ; အဘိဓါန် Norwegian Bokmål
+NO;;နော်ဝေ
+NY;;Chichewa; Chewa; အဘိဓါန် Nyanja
+OC;;အဘိဓါန် Occitan (post ကို 1500)
+OJ;;အဘိဓါန် Ojibwa
+OR;;အိုရီ
+OM;;အဘိဓါန် Oromo
+OS;;Ossetian; အဘိဓါန် Ossetian
+PA;;Panjabi; ပနျခြာပီ
+FA;;အဘိဓါန် Iranian Persian
+PI;;ပါဠိ
+PL;;ပိုလနျ
+PT;;ပေါ်တူဂီ
+PS;;Pushto; ရျှတို
+QU;;အဘိဓါန် Quechua
+RM;;အဘိဓါန် Romansh
+RO;;အဘိဓါန် Romanian
+RN;;အဘိဓါန် Rundi
+RU;;ရုရှား
+SG;;အဘိဓါန် Sango
+SA;;Sanskrit
+SI;;ဆငျဟာ; ဆင်ဟာ
+SK;;စလိုဗကျ
+SL;;စလိုဗေးနီး
+SE;;အဘိဓါန် Northern Sami
+SM;;အဘိဓါန် Samoan
+SN;;အဘိဓါန် Shona
+SD;;စငျဒီ
+SO;;ဆိုမာလီ
+ST;;Sotho အဘိဓါန်တောင်ပိုင်း
+ES;;စပိန်; ရှေ
+SC;;အဘိဓါန် Sardinian
+SR;;ဆားဗီး
+SS;;အဘိဓါန် Swati
+SU;;ဆူဒနျ
+SW;;ဆွာဟီလီ
+SV;;ဆွီဒင်
+TY;;အဘိဓါန် Tahitian
+TA;;အဘိဓါန် Tamil
+TT;;အဘိဓါန် Tatar
+TE;;ဂု
+TG;;အဘိဓါန် Tajik
+TL;;အဘိဓါန် Tagalog
+TH;;ထိုင်း
+BO;;တိဘက်
+TI;;ဂျရငျရာ
+TO;;အဘိဓါန် Tonga (Tonga အဘိဓါန်ကျွန်းစု)
+TN;;အဘိဓါန် Tswana
+TS;;အဘိဓါန် Tsonga
+TK;;အဘိဓါန် Turkmen
+TR;;တူရကီ
+TW;;အဘိဓါန် Twi
+UG;;ဝီ; ဂါးရ
+UK;;ယူကရိန်း
+UR;;ဒူ
+UZ;;အဘိဓါန် Uzbek
+VE;;အဘိဓါန် Venda
+VI;;ဗီယက်နမ်
+VO;;အဘိဓါန်Volapük
+CY;;ဝလေဝလေ
+WA;;အဘိဓါန် Walloon
+WO;;ဝူလို
+XH;;ဇို
+YI;;အဘိဓါန် Yiddish
+YO;;အဘိဓါန် Yoruba
+ZA;;အဘိဓါန် Zhuang; Chuang
+ZU;;ဇူလူ

@@ -1,0 +1,185 @@
+AA;;Larg
+AB;;Abkhazistanisht
+AF;;Afrikaans
+AK;;Akan
+SQ;;Shqiptar
+AM;;Shqip
+AR;;Arab
+AN;;Aragonese
+HY;;Armen
+AS;;Asamezisht
+AV;;Avaric
+AE;;Avestan
+AY;;Aymara
+AZ;;Azerbaijani
+BA;;Bashkir
+BM;;Bambara
+EU;;Bask
+BE;;Bjellorusisht
+BN;;Bengali
+BH;;Gjuhë Bihari
+BI;;Bislama
+BS;;Boshnjake
+BR;;Breton
+BG;;Bullgare
+MY;;Birmanez
+CA;;Shqip; Valencian
+CH;;Chamorro
+CE;;Çeçen
+ZH;;Kinez
+CU;;Church Slavic; Sllave të vjetër; Kisha sllave; Vjetër bullgare; Kishën e vjetër Sllave
+CV;;Chuvash
+KW;;Shqip
+CO;;Corsican
+CR;;Cree
+CS;;Çek
+DA;;Danez
+DV;;Dhivehi; Dhivehi; Maldivian
+NL;;Dutch; Flemisht
+DZ;;Dzongkha
+EN;;Anglisht
+EO;;Esperanto
+ET;;Estonez
+EE;;Dele
+FO;;Faroese
+FJ;;Fijian
+FI;;Finlandez
+FR;;Francez
+FY;;Frizianisht
+FF;;Fulah
+KA;;Gjeorgjisht
+DE;;Gjermanisht
+GD;;Gaelic; Scottish Gaelic
+GA;;Irlandez
+GL;;Galician
+GV;;Manx
+EL;;Greke, Moderne (1453-)
+GN;;Guarani
+GU;;Gujarati
+HT;;Haitian; Creole Haitian
+HA;;Shqip
+HE;;Hebraik
+HZ;;Herero
+HI;;Hindi
+HO;;Hiri Motu
+HR;;Kroatisht
+HU;;Hungarez
+IG;;Igbo
+IS;;Islandisht
+IO;;Shqip
+II;;Sichuan Yi; Nuosu
+IU;;Inuktitut
+IE;;Interlingue; Occidental
+IA;;Interlingua (International Association ndihmëse Gjuha)
+ID;;Indonezian
+IK;;Inupiaq
+IT;;Italian
+JV;;Shqip
+JA;;Japonez
+KL;;Kalaallisut; Grinlandisht
+KN;;Kannada
+KS;;Kashmiri
+KR;;Kanuri
+KK;;Kazakh
+KM;;Qendrore Khmer
+KI;;Kikuyu; Gikuyu
+RW;;Kinyarwanda
+KY;;Kirgiz; Kyrgyz
+KV;;Komi
+KG;;Kongo
+KO;;Korean
+KJ;;Kuanyama; Kwanyama
+KU;;Kurd
+LO;;Lao
+LA;;Latine
+LV;;Letonisht
+LI;;Limburgan; Limburger; Limburgan
+LN;;Lingala
+LT;;Lituanez
+LB;;Shqip; Letzeburgesch
+LU;;Luba-Katanga
+LG;;Ganda
+MK;;Maqedonas
+MH;;Marshallese
+ML;;Malayalam
+MI;;Maori
+MR;;Marathi
+MS;;Malajas
+MG;;Malagasy
+MT;;Maltez
+MO;;Moldave; Moldave
+MN;;Shqip
+NA;;Nauru
+NV;;Navajo; Navaho
+NR;;Ndebele, Jugut; South Ndebele
+ND;;Ndebele, North; Ndebele Veriore
+NG;;Ndonga
+NE;;Nepali
+NN;;Nynorsk Norwegian; Nynorsk, norvegjeze
+NB;;Bokmål, Norwegian; Norwegian Bokmål
+NO;;Norvegjez
+NY;;Chichewa; Chewa; Nyanja
+OC;;Shqip (pas 1500)
+OJ;;Ojibwa
+OR;;Oriya
+OM;;Oromo
+OS;;Osetisë; Ossetic
+PA;;Panjabi; Punjabi
+FA;;Persisht
+PI;;Pali
+PL;;Polonisht
+PT;;Portugalisht
+PS;;Pushto; Pashto
+QU;;Quechua
+RM;;Rome
+RO;;Rumun
+RN;;Rundi
+RU;;Rusisht
+SG;;Sango
+SA;;Sanskritisht
+SI;;Sinhala; Singalez
+SK;;Sllovak
+SL;;Slloven
+SE;;Northern Sami
+SM;;Samoan
+SN;;Shona
+SD;;Si'ndi
+SO;;Somalisht
+ST;;Sotho, Southern
+ES;;Spanish; Kastilianisht
+SC;;Sardenjas
+SR;;Serb
+SS;;Swati
+SU;;Sundanezisht
+SW;;Shqip
+SV;;Suedez
+TY;;Tahitian
+TA;;Tamil
+TT;;Tatar
+TE;;Telugu
+TG;;Taxhik
+TL;;Shqip
+TH;;Thai
+BO;;Tibetian
+TI;;Tigriniaisht
+TO;;Karrocë me dy rrota (Tonga Islands)
+TN;;Tswana
+TS;;Tsonga
+TK;;Turkmen
+TR;;Turk
+TW;;Twi
+UG;;Ujgure; Ujgur
+UK;;Ukrainas
+UR;;Urdu
+UZ;;Uzbek
+VE;;Venda
+VI;;Vietnamisht
+VO;;Volapük
+CY;;Shqip
+WA;;Valon
+WO;;Ulufisht
+XH;;Xhosa
+YI;;Jidish
+YO;;Shqip
+ZA;;Zhuang; Kosova
+ZU;;Zulu

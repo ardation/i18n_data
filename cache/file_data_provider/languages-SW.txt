@@ -1,0 +1,185 @@
+AA;;Mbali
+AB;;Kiabkhazi
+AF;;Shule zote nchini Marekani
+AK;;Akan
+SQ;;Kialbeni
+AM;;Kiamhari
+AR;;Kiarabu
+AN;;Kiswahili
+HY;;Muarmeni
+AS;;Kiassam
+AV;;Avaric
+AE;;Avestan
+AY;;Aymara
+AZ;;Azerbaijani
+BA;;Bashkir
+BM;;Bambara
+EU;;Basque
+BE;;Belarusian
+BN;;Bengali
+BH;;Lugha Bihari
+BI;;Bislama
+BS;;Kibosnia
+BR;;Kiswahili
+BG;;Bulgarian
+MY;;Ya Kiburma
+CA;;Kikatalani; Comunitat
+CH;;Chamorro
+CE;;Chechen
+ZH;;Kichina
+CU;;Church Slavic; Old Slavonic; Kanisa Slavonic; Old Kibulgeri; Old Church Slavonic
+CV;;Kiswahili
+KW;;Cornish
+CO;;Kikosikani
+CR;;Cree
+CS;;Czech
+DA;;Denmark
+DV;;Kidivehi; Dhivehi; Maldives
+NL;;Uholanzi; Flemish
+DZ;;Kizongkha
+EN;;Kiingereza
+EO;;Kiesperanto
+ET;;Estonian
+EE;;Kiwe
+FO;;Kiswahili
+FJ;;Fijian
+FI;;Kifini
+FR;;Kifaransa
+FY;;Kiswahili
+FF;;Fulah
+KA;;Georgian
+DE;;German
+GD;;Kiswahili; Kiswahili
+GA;;Ireland
+GL;;Galician
+GV;;Kiswahili
+EL;;Kigiriki, kisasa (1453-)
+GN;;Guarani
+GU;;Kigujarati
+HT;;Kiswahili; Haitian Creole
+HA;;Hausa
+HE;;Hebrew
+HZ;;Herero
+HI;;Hindi
+HO;;Hiri Motu
+HR;;Croatian
+HU;;Hungary
+IG;;Igbo
+IS;;Iceland
+IO;;Kiswahili
+II;;Sichuan Yi; Nuosu
+IU;;Kiswahili
+IE;;Interlingue; Occidental
+IA;;Kiswahili (International Msaidizi lugha Association)
+ID;;Indonesia
+IK;;Inupiaq
+IT;;Italia
+JV;;Javanese
+JA;;Japan
+KL;;Kalaallisut; Greenlandic
+KN;;Kikannada
+KS;;Kashmiri
+KR;;Kanuri
+KK;;Kiswahili
+KM;;Kati Khmer
+KI;;Kikuyu; Gikuyu
+RW;;Kinyarwanda
+KY;;Kikirigizi; Kiswahili
+KV;;Komi
+KG;;Kongo
+KO;;Korea
+KJ;;Kuanyama; Kwanyama
+KU;;Kurdish
+LO;;Lao
+LA;;Amerika ya
+LV;;Kilatvia
+LI;;Limburgan; Limburger; Kiswahili
+LN;;Kilingala
+LT;;Lithuanian
+LB;;Kitatari; Letzeburgesch
+LU;;Luba-Katanga
+LG;;Ganda
+MK;;Macedonian
+MH;;Marshallese
+ML;;Malayalam
+MI;;Maori
+MR;;Marathi
+MS;;Malay
+MG;;Malagasy
+MT;;Maltese
+MO;;Moldavian; Kimoldovani
+MN;;Mongolian
+NA;;Nauru
+NV;;Navajo; Navaho
+NR;;Ndebele, Afrika; South Ndebele
+ND;;Ndebele, North; Kindebele
+NG;;Ndonga
+NE;;Kinepali
+NN;;Kiswahili; Kipya, Norway
+NB;;Kiswahili, Norway, Kiswahili
+NO;;Norway
+NY;;Chichewa; Chewa; Kinyanja
+OC;;Kiswahili (baada 1500)
+OJ;;Ojibwa
+OR;;Kioriya
+OM;;Oromo
+OS;;Ossetian; Kiosetia
+PA;;Panjabi; Punjabi
+FA;;Kiajemi
+PI;;Pali
+PL;;Polish
+PT;;Ureno
+PS;;Pushto; Kipashto
+QU;;Quechua
+RM;;Kiromanshi
+RO;;Kirumi
+RN;;Kirundi
+RU;;Urusi
+SG;;Sango
+SA;;Kisanskriti
+SI;;Sinhala; Kisinhali
+SK;;Slovak
+SL;;Slovenian
+SE;;Kisami cha
+SM;;Kisamoa
+SN;;Shona
+SD;;Msindhi
+SO;;Somalia
+ST;;Cha, Kusini mwa
+ES;;Hispania, Castilian
+SC;;Sardinian
+SR;;Serbian
+SS;;Swati
+SU;;Kisundani
+SW;;Kiswahili
+SV;;Sweden
+TY;;Kitahiti
+TA;;Tamil
+TT;;Kiswahili
+TE;;Telugu
+TG;;Tajik
+TL;;Tagalog
+TH;;Thai
+BO;;Tibetan
+TI;;Kitigrinya
+TO;;Tonga (Tonga Visiwa)
+TN;;Kitswana
+TS;;Tsonga
+TK;;Turkmen
+TR;;Kituruki
+TW;;Twi
+UG;;Ombwa; Uyghur
+UK;;Kiukreni
+UR;;Kiurdu
+UZ;;Uzbek
+VE;;Venda
+VI;;Vietnamese
+VO;;Volapük
+CY;;Welsh
+WA;;Walloon
+WO;;Wolof
+XH;;Xhosa
+YI;;Yiddish
+YO;;Kiyoruba
+ZA;;Zhuang; Chuang
+ZU;;Zulu

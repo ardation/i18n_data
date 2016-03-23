@@ -1,0 +1,185 @@
+AA;;Afar
+AB;;Abxaziya
+AF;;Afrikaans
+AK;;Oxun
+SQ;;Alban
+AM;;Amhar
+AR;;Arabcha
+AN;;Aragones
+HY;;Arman
+AS;;Assomiy
+AV;;Avaric
+AE;;Avestan
+AY;;Aymara
+AZ;;Ozarbayjon
+BA;;Boshqird
+BM;;Luyia
+EU;;Basque
+BE;;Belarus
+BN;;Bengal
+BH;;Bihari tillar
+BI;;Bislama
+BS;;Bosniya
+BR;;Breton
+BG;;Bulgarian
+MY;;Birma
+CA;;Iye; Valensiya
+CH;;Chamorro
+CE;;Chechen
+ZH;;Xitoy
+CU;;Jamoat slavyan; Old slavyan; Jamoat slavyan; Bolgar sobiq; Old tushunishgan slavyan
+CV;;Chuvash
+KW;;Cornish
+CO;;Korsikalik
+CR;;Cree
+CS;;Chexiya
+DA;;Danish
+DV;;Divehi; Dhivehi; Maldiv
+NL;;Dutch; Flemish
+DZ;;Dzongkha
+EN;;English
+EO;;Esperanto
+ET;;Estoniya
+EE;;Qo'y
+FO;;Faroese
+FJ;;Fidji
+FI;;Finnish
+FR;;Frantsiya
+FY;;G'arb Frizce
+FF;;Fulah
+KA;;Gruziya
+DE;;Nemis
+GD;;Gal; Shotlandiya Gal
+GA;;Irish
+GL;;Turkcha
+GV;;Manx
+EL;;(1453-), yunon Zamonaviy
+GN;;Guarani
+GU;;Gujarati
+HT;;Gaiti; Gaiti Creole
+HA;;Hausa
+HE;;Hebrew
+HZ;;Herero
+HI;;Hindi
+HO;;Hiri Motu
+HR;;Xorvatiya
+HU;;Venger
+IG;;Igbo
+IS;;Islandiya
+IO;;Ido
+II;;Sichuan Yi; Nuosu
+IU;;Inuktitut
+IE;;Interlingve; Occidental
+IA;;Interlingua (International yordamchi Til Association)
+ID;;Indonez
+IK;;Inupiaq
+IT;;Italiya
+JV;;Yavancha
+JA;;Yaponiya
+KL;;Grenlandiya tili; Grinlandcha
+KN;;Kannada
+KS;;Kashmir
+KR;;Kanuri
+KK;;Qozog'iston
+KM;;Markaziy Khmer
+KI;;Kikuyu; Gikuyu
+RW;;Kinyarwanda
+KY;;Qirg'iz; Qirg'iziston
+KV;;Komi
+KG;;Kongo
+KO;;Koreya
+KJ;;Kuanyama; Kwanyama
+KU;;Kurd
+LO;;Lao
+LA;;Lotin
+LV;;Latviya
+LI;;Limburgan; Limburger; Limburgca
+LN;;Lingala
+LT;;Litva
+LB;;Luxembourgish; Letzeburgesch
+LU;;Luba-Katanga
+LG;;GANDA
+MK;;Makedon
+MH;;Marshall
+ML;;Tili
+MI;;Maori
+MR;;Marathi
+MS;;Malay
+MG;;Malagasi
+MT;;Malta
+MO;;Moldova; Moldova
+MN;;Mongolian
+NA;;Nauru
+NV;;Navajo; Navaho
+NR;;Bu qabiladagi, Janubiy; Janubiy qabiladagi
+ND;;Bu qabiladagi, Shimoliy; Shimoliy qabiladagi
+NG;;Ndonga
+NE;;Nepali
+NN;;Norvegiya Nynorsk; Nynorsk, Norvegiya
+NB;;O'zbek, Norvegiya; Norveg
+NO;;Norvegiya
+NY;;Chichewa; Chicheva tili; Nyanja
+OC;;Oksitanca (post 1500)
+OJ;;Ojibwa
+OR;;Oriya
+OM;;Oromo
+OS;;Osetiya; Ossetic
+PA;;Panjabi; Panjob
+FA;;Fors
+PI;;Päli
+PL;;Sayqal bermoq
+PT;;Portugal
+PS;;Pushto; Pashto
+QU;;Quechua
+RM;;Romancha
+RO;;Romanian
+RN;;Rundi
+RU;;Rossiya
+SG;;Samedi
+SA;;Sanskrit
+SI;;Sinhala; Senhal tili
+SK;;Slovak
+SL;;Sloven
+SE;;Shimoliy Sami
+SM;;Samoaca
+SN;;Shona
+SD;;Sind
+SO;;Somali
+ST;;See, Southern
+ES;;Ispaniya; Castilian
+SC;;Sardunyalı
+SR;;Serbiya
+SS;;Swati
+SU;;Tili
+SW;;Tili
+SV;;Shvetsiya
+TY;;Taiti
+TA;;Tamil
+TT;;Tatar
+TE;;Telugu
+TG;;Tojikiston
+TL;;Tagalog
+TH;;Thai
+BO;;Tibet
+TI;;Tigrinya
+TO;;Tonga (Tonga orollari)
+TN;;Tswanaca
+TS;;Tsonga
+TK;;Turkmen
+TR;;Turk
+TW;;Twi
+UG;;Uyg'ur; Uyg'ur
+UK;;Ukraina
+UR;;Urdu
+UZ;;O'zbekiston
+VE;;VENDA
+VI;;Vetnam
+VO;;Volapük
+CY;;Welsh
+WA;;Valon
+WO;;Wolof
+XH;;Xoscha
+YI;;Idish
+YO;;Yurba
+ZA;;Zhuang; Chuang
+ZU;;Zulu

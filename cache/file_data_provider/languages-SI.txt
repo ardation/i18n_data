@@ -1,0 +1,185 @@
+AA;;ඈත
+AB;;Abkhazian
+AF;;අප්රිකානු
+AK;;Akan
+SQ;;ඇල්බේනියානු
+AM;;ඇම්හැරික්
+AR;;අරාබි
+AN;;Aragonese
+HY;;ආර්මේනියානු
+AS;;ඇසෑම්
+AV;;Avaric
+AE;;Avestan
+AY;;අයිමාරා
+AZ;;අසර්බයිජාන
+BA;;Bashkir
+BM;;බඹර
+EU;;බාස්ක්
+BE;;බෙලරුසියානු
+BN;;බෙංගාලි
+BH;;බිහාරි භාෂා
+BI;;Bislama
+BS;;බොස්නියානු
+BR;;Breton
+BG;;බල්ගේරියානු
+MY;;බුරුම
+CA;;ගලීසියානු ග්රීක, Valencian
+CH;;Chamorro
+CE;;චෙච්නියානු
+ZH;;චීන
+CU;;පල්ලිය ස්ලාව් ජාතික, පරණ සැලුවෝනික, පල්ලිය සැලුවෝනික, බල්ගේරියානු පරණ; පුරාතන සැලුවෝනික පල්ලියේ භාෂාව
+CV;;Chuvash
+KW;;කෝනිෂ්
+CO;;කොර්සිකන්
+CR;;Cree
+CS;;චෙක්
+DA;;ඩෙන්මාර්ක
+DV;;Divehi, Dhivehi, මාලදිවයින්
+NL;;ලන්දේසි, ලිම්බර්ෂ්
+DZ;;සොන්ක
+EN;;ඉංග්රීසි
+EO;;එස්පරන්තෝ
+ET;;එස්ටෝනියානු
+EE;;බැටළු දෙනුන්
+FO;;Faroese
+FJ;;ෆීජි රාජ්යයේ
+FI;;ක්රොඒෂියානු
+FR;;ප්රංශ
+FY;;Frisian බස්නාහිර
+FF;;Fulah
+KA;;ජෝර්ජියානු
+DE;;ජර්මානු
+GD;;නිතර ඇතිවන්නේ, ස්කොට්ලන්ත ගැලික්
+GA;;අයර්ලන්ත
+GL;;කොරියානු
+GV;;Manx
+EL;;ග්රීක, නූතන (1453-)
+GN;;ගුවාරනි
+GU;;ගුජරාටි
+HT;;හයිටි, හයිටි ක්රියෝල්
+HA;;හවුසා
+HE;;හෙබ්රෙව්
+HZ;;හෙරටෝ
+HI;;හින්දි
+HO;;Hiri භාෂාව català
+HR;;ක්රොඒෂියානු
+HU;;හංගේරියානු
+IG;;Igbo
+IS;;අයිස්ලන්ත අරාබි
+IO;;මම කරනවා
+II;;සිචුවාන් යි; Nuosu
+IU;;Inuktitut
+IE;;Interlingue, Occidental
+IA;;අන්තර්භාෂිත (ජාත්යන්තර සහායක භාෂා සංගමය)
+ID;;ඉන්දුනීසියානු
+IK;;Inupiaq
+IT;;ඉතාලි
+JV;;ජාවා
+JA;;ජපන්
+KL;;Kalaallisut, ග්රීන්ලන්ත
+KN;;කන්නඩ
+KS;;කාශ්මීර
+KR;;Kanuri
+KK;;කසක්
+KM;;මධ්යම ඛමර්
+KI;;Kikuyu, Gikuyu
+RW;;Kinyarwanda
+KY;;කියර්ගිසීස්, කිර්ගිස්
+KV;;Komi
+KG;;කොංගෝ
+KO;;කොරියානු
+KJ;;Kuanyama, Kwanyama
+KU;;කුර්දි
+LO;;ලා ඕස්
+LA;;ලතින්
+LV;;ලැට්වියානු
+LI;;Limburgan, Limburger, Limburgish
+LN;;ලිංගාලා
+LT;;ලිතුවේනියානු
+LB;;ලක්සම්බර්ග්, Letzeburgesch
+LU;;Luba-Katanga
+LG;;Ganda
+MK;;මැසිඩෝනියානු
+MH;;මාසේල්ස්
+ML;;මලයාලම්
+MI;;මාඕරි
+MR;;මරාති
+MS;;මැලේ
+MG;;මලගාසි
+MT;;මෝල්ටීස්
+MO;;ජෝර්ජියානු, Moldovan
+MN;;මොන්ගෝලියානු
+NA;;නාවුරු
+NV;;Navajo, Navaho
+NR;;පතනශීලී ශාක, දකුණු, දකුණු පතනශීලී ශාක
+ND;;පතනශීලී ශාක, උතුර; උතුරු පතනශීලී ශාක
+NG;;නඩොංගා
+NE;;නේපාල
+NN;;නෝර්වේ නයිනෝර්ස්ක්, නයිනෝර්ස්ක් නෝර්වීජියානු
+NB;;Bokmål, නෝර්වේ, නෝර්වේ bokmål
+NO;;නෝර්වේ
+NY;;Chichewa, Chewa, Nyanja
+OC;;Occitan (පශ්චාත් 1500)
+OJ;;Ojibwa
+OR;;ඔරියා
+OM;;Oromo
+OS;;Ossetian, Ossetic
+PA;;Panjabi, පන්ජාබ්
+FA;;පර්සියානු
+PI;;පාලි
+PL;;පෝලන්ත
+PT;;පෘතුගීසි
+PS;;Pushto, පැෂ්ටෝ
+QU;;කෙචුවා
+RM;;රොමාන්ෂ්
+RO;;රුමේනියානු
+RN;;Rundi
+RU;;රුසියානු
+SG;;අගනගරයෙන් කිලෝ
+SA;;සංස්කෘත
+SI;;සිංහල; සිංහල
+SK;;සොල්වෙක්
+SL;;ස්ලෝවේනියානු
+SE;;උතුරු සාමි
+SM;;Samoan
+SN;;ෂෝනා
+SD;;සින්දි
+SO;;සෝමාලියානු
+ST;;Sotho, දකුණු
+ES;;ස්පාඤ්ඤ; Castilian
+SC;;Sardinian
+SR;;සර්බියානු
+SS;;Swati
+SU;;Sundanese
+SW;;ස්වාහිලි
+SV;;ස්වීඩන් ජාතික
+TY;;ටාහිටියානු
+TA;;දෙමල
+TT;;ටාටර්
+TE;;තෙළිඟු
+TG;;ටජික්
+TL;;ටැගලොග්
+TH;;තායි
+BO;;ටිබෙට්
+TI;;ටිග්රින්යා
+TO;;ටොන්ගා (ටොන්ගා දූපත්)
+TN;;Tswana
+TS;;Tsonga
+TK;;ටර්ක්මෙන්
+TR;;තුර්කි
+TW;;Twi
+UG;;උයිගර්, Uyghur
+UK;;යුක්රේන
+UR;;හංගේරියානු
+UZ;;උස්බෙක්
+VE;;Venda
+VI;;හින්දි
+VO;;Volapük
+CY;;ෆින්ලන්ත
+WA;;Walloon
+WO;;විලාසයට අවනත
+XH;;හෝසා
+YI;;යුදෙව්
+YO;;යොරූබා
+ZA;;Zhuang, චුවැන්ග්
+ZU;;සූලු
